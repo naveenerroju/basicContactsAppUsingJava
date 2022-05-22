@@ -1,5 +1,3 @@
-package contactsChallange;
-
 public class Contacts {
     private String name;
     private long mobileNumber;
